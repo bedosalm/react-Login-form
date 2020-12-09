@@ -1,0 +1,56 @@
+.active{
+   background-color:red;
+   line-height: 38px !important;
+   color: #fff;
+   margin-top: 15px;
+}
+.work{
+   height: 30px;
+   background-color: rosybrown;
+}
+.action {
+   display: block;
+   height: 80px;
+}
+p{
+   margin: 0 !important;
+}
+
+.form-content{
+   width: 350px;
+   margin: 25px auto;
+   background-color: #ffc0c0;
+   padding: 10px 20px 10px 20px;
+   border-radius: 15px;
+
+}
+
+.subBtn{
+   cursor: pointer;
+   line-height: 38px !important;
+   background-color: #706fd4;
+   color: #fff;
+   margin-top: 15px;
+}
+input{
+   overflow: visible;
+   display: block;
+   width: 100%;
+   outline: none;
+   border: none;
+   line-height: 27px !important;
+   padding: 0 8px;
+   color: #a50000;
+   border-radius: 5px;
+}
+label{
+   display: block;
+   margin: 5px 0px;
+   padding: 0px 5px;
+}
+
+.form-content h3{
+   text-align: center;
+   margin: 15px 0;
+
+}
